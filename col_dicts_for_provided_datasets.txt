@@ -1,0 +1,136 @@
+Reference file showing which feature of each provided dataset was imputed. For abalone, Sex was used.
+
+abalone : 
+"col_name_dict": {
+        "Length": [
+            0,
+            false
+        ],
+        "Diameter": [
+            1,
+            false
+        ],
+        "Height": [
+            2,
+            false
+        ],
+        "Whole_weight": [
+            3,
+            false
+        ],
+        "Shucked_weight": [
+            4,
+            false
+        ],
+        "Viscera_weight": [
+            5,
+            false
+        ],
+        "Shell_weight": [
+            6,
+            false
+        ],
+        "Sex": [
+            0,
+            true
+        ]
+    }
+    
+adult :
+"col_name_dict": {
+        "impute": [
+            5,
+            false
+        ]
+    }
+buddy :
+"col_name_dict": {
+        "impute": [
+            0,
+            true
+        ]
+    }
+california :
+"col_name_dict": {
+        "impute": [
+            3,
+            false
+        ]
+    }
+cardio :
+"col_name_dict": {
+        "impute": [
+            0,
+            true
+        ]
+    }
+churn2 : 
+"col_name_dict": {
+        "impute": [
+            1,
+            false
+        ]
+    }
+diabetes : 
+"col_name_dict": {
+        "impute": [
+            5,
+            false
+        ]
+    }
+fb-comments :
+"col_name_dict": {
+        "impute": [
+            24,
+            false
+        ]
+    }
+gesture : 
+"col_name_dict": {
+        "impute": [
+            23,
+            false
+        ]
+    }
+higgs_small :
+"col_name_dict": {
+        "impute": [
+            9,
+            false
+        ]
+    }
+house :
+"col_name_dict": {
+        "impute": [
+            15,
+            false
+        ]
+    }
+insurance :
+"col_name_dict": {
+        "impute": [
+            1,
+            false
+        ]
+    }
+king :
+"col_name_dict": {
+        "impute": [
+            9,
+            false
+        ]
+    }
+miniboone :
+"col_name_dict": {
+        "impute": [
+            5,
+            false
+        ]
+    }
+wilt :
+"col_name_dict": {
+        "impute": [
+            2,
+            false
+        ]
+    }
