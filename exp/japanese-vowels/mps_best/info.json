@@ -1,0 +1,72 @@
+{
+    "name": "japanese-vowels",
+    "id": "japanese-vowels--id",
+    "task_type": "regression",
+    "n_num_features": 13,
+    "n_cat_features": 1,
+    "train_size": 6375,
+    "val_size": 1593,
+    "test_size": 1993,
+    "col_name_dict": {
+        "utterance": [
+            0,
+            false
+        ],
+        "frame": [
+            1,
+            false
+        ],
+        "coefficient1": [
+            2,
+            false
+        ],
+        "coefficient2": [
+            3,
+            false
+        ],
+        "coefficient3": [
+            -1,
+            false
+        ],
+        "coefficient4": [
+            4,
+            false
+        ],
+        "coefficient5": [
+            5,
+            false
+        ],
+        "coefficient6": [
+            6,
+            false
+        ],
+        "coefficient7": [
+            7,
+            false
+        ],
+        "coefficient8": [
+            8,
+            false
+        ],
+        "coefficient9": [
+            9,
+            false
+        ],
+        "coefficient10": [
+            10,
+            false
+        ],
+        "coefficient11": [
+            11,
+            false
+        ],
+        "coefficient12": [
+            12,
+            false
+        ],
+        "speaker": [
+            0,
+            true
+        ]
+    }
+}
