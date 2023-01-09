@@ -1,0 +1,16 @@
+{
+    "name": "California Housing",
+    "id": "california--default",
+    "task_type": "regression",
+    "n_num_features": 8,
+    "n_cat_features": 0,
+    "train_size": 13209,
+    "val_size": 3303,
+    "test_size": 4128,
+    "col_name_dict": {
+        "impute": [
+            3,
+            false
+        ]
+    }
+}
