@@ -1,0 +1,44 @@
+{
+    "task_type": "regression",
+    "name": "Abalone",
+    "id": "abalone--id",
+    "train_size": 2672,
+    "val_size": 669,
+    "test_size": 836,
+    "n_num_features": 7,
+    "n_cat_features": 1,
+    "col_name_dict": {
+        "Length": [
+            0,
+            false
+        ],
+        "Diameter": [
+            1,
+            false
+        ],
+        "Height": [
+            2,
+            false
+        ],
+        "Whole_weight": [
+            3,
+            false
+        ],
+        "Shucked_weight": [
+            4,
+            false
+        ],
+        "Viscera_weight": [
+            5,
+            false
+        ],
+        "Shell_weight": [
+            6,
+            false
+        ],
+        "Sex": [
+            0,
+            true
+        ]
+    }
+}
