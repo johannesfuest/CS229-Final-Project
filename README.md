@@ -1,3 +1,6 @@
+This github repository contains all the code and information on our final project for Stanford class CS 229 Machine Learning. Created by Johannes Fuest, Alex Thiesmeyer and Linus Hein. 
+
+
 # CS229 Final Project: Diffusion Models for Data Imputation
 
 ### Attribution:
